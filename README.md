@@ -1,4 +1,5 @@
-# DataSourceWinForm
-This was an assignment for a Rapid App Development course. The assignment requirements are included in a pdf in this repo. My final grade for this was 27.5/30. I lost marks because of weird styling that caused the nav bar to disappear on smaller devices.
+This was an assignment for a Rapid App Development course. The assignment requirements are included in a pdf in this repo. My final grade for this was 30/30
 
-Windows Forms application using master pages and bootstrap for styling
+Windows Forms application that connects to a local database in MSSMS using data sources
+
+The Connection string for the database is in Lab3/NorthwindDB.cs
